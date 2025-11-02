@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel HotelID="H001" Rating="5">
-    <Name>Grand Resort</Name>
-    <Phone>6021234567</Phone>
-    <Phone>8009378461</Phone>
+  <Hotel HotelID="H001" Rating="4.2" NearestAirport="Sky Harbor">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H002" Rating="4">
+  <Hotel HotelID="H002" Rating="4.0" NearestAirport="LAX">
     <Name>Ocean View</Name>
-    <Phone>3109876543</Phone>
+    <Phone>310-987-6543</Phone>
     <Address>
       <Number>23</Number>
       <Street>Sunset Blvd</Street>
       <City>Los Angeles</City>
       <State>CA</State>
       <Zip>90028</Zip>
-      <NearestAirport>LAX</NearestAirport>
     </Address>
   </Hotel>
 </Hotels>
