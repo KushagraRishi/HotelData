@@ -1,15 +1,12 @@
-<Hotels>
-  <Hotel HotelID="H001" Rating="5" NearestAirport="PHX">
-    <Name>Grand Resort</Name>
-    <City>Phoenix</City>
-    <Address>123 Palm Street</Address>
-    <Phone>6021234567</Phone>
-  </Hotel>
-
-  <Hotel HotelID="H002" Rating="4" NearestAirport="LAX">
-    <Name>Ocean View</Name>
-    <City>Los Angeles</City>
-    <Address>456 Sunset Blvd</Address>
-    <Phone>3109876543</Phone>
-  </Hotel>
-</Hotels>
+<Hotel HotelID="H001" Rating="5" NearestAirport="PHX">
+  <Name>Grand Resort</Name>
+  <Phone>6021234567</Phone>
+  <Phone>8009378461</Phone>
+  <Address>
+    <Number>11</Number>
+    <Street>E 7th St</Street>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Zip>85281</Zip>
+  </Address>
+</Hotel>
