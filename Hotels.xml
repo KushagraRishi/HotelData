@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://kushagrarishi.github.io/HotelData/Hotels.xsd">
+
   <Hotel HotelID="H001" Rating="4.2" NearestAirport="Sky Harbor">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -13,7 +15,7 @@
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H002" Rating="4.0" NearestAirport="LAX">
+  <Hotel HotelID="H002" Rating="4.0">
     <Name>Ocean View</Name>
     <Phone>310-987-6543</Phone>
     <Address>
@@ -24,4 +26,5 @@
       <Zip>90028</Zip>
     </Address>
   </Hotel>
+
 </Hotels>
