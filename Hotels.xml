@@ -20,7 +20,6 @@
   <Hotel>
     <Name>The Oberoi New Delhi</Name>
     <Phone>011-2436-3030</Phone>
-    <Phone>080-2521-5678</Phone>
     <Address NearestAirport="DEL">
       <Number>1</Number>
       <Street>Dr Zakir Hussain Marg</Street>
@@ -47,6 +46,7 @@
   <Hotel Rating="4.5">
     <Name>The Leela Palace Bengaluru</Name>
     <Phone>080-2521-1234</Phone>
+    <Phone>080-2521-5678</Phone>
     <Address NearestAirport="BLR">
       <Number>23</Number>
       <Street>Old Airport Road</Street>
