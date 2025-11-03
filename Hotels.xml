@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://kushagrarishi.github.io/HotelData/Hotels.xsd">
-
-  <Hotel HotelID="H001" Rating="4.2" NearestAirport="Sky Harbor">
+<Hotels>
+  <Hotel _HotelID="H001" _Rating="4.2" _NearestAirport="Sky Harbor">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -15,112 +13,15 @@
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H002" Rating="4.0">
-    <Name>Ocean View</Name>
-    <Phone>310-987-6543</Phone>
-    <Address>
-      <Number>23</Number>
-      <Street>Sunset Blvd</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90028</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H003" Rating="3.5" NearestAirport="JFK">
-    <Name>Hilton Garden Inn</Name>
-    <Phone>212-111-2222</Phone>
-    <Address>
-      <Number>85</Number>
-      <Street>Madison Ave</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10016</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H004" Rating="4.5" NearestAirport="ORD">
-    <Name>Hyatt Regency</Name>
-    <Phone>312-222-3333</Phone>
-    <Address>
-      <Number>200</Number>
-      <Street>N Michigan Ave</Street>
-      <City>Chicago</City>
-      <State>IL</State>
-      <Zip>60601</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H005" Rating="4.0" NearestAirport="SFO">
-    <Name>Marriott Downtown</Name>
-    <Phone>415-444-5555</Phone>
-    <Address>
-      <Number>55</Number>
-      <Street>Market Street</Street>
-      <City>San Francisco</City>
-      <State>CA</State>
-      <Zip>94105</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H006" Rating="3.8">
-    <Name>Courtyard Inn</Name>
-    <Phone>602-333-1111</Phone>
-    <Address>
-      <Number>90</Number>
-      <Street>5th Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85004</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H007" Rating="4.3" NearestAirport="ATL">
-    <Name>Ritz Carlton</Name>
-    <Phone>404-555-8888</Phone>
-    <Address>
-      <Number>700</Number>
-      <Street>Peachtree St</Street>
-      <City>Atlanta</City>
-      <State>GA</State>
-      <Zip>30308</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H008" Rating="4.1">
-    <Name>Sheraton</Name>
-    <Phone>213-777-6666</Phone>
-    <Address>
-      <Number>410</Number>
-      <Street>Figueroa St</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90017</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H009" Rating="3.9" NearestAirport="DFW">
+  <Hotel _HotelID="H002" _Rating="3.8" _NearestAirport="Phoenix-Mesa">
     <Name>Holiday Inn</Name>
-    <Phone>972-123-4567</Phone>
+    <Phone>480-555-9090</Phone>
     <Address>
-      <Number>500</Number>
-      <Street>Main St</Street>
-      <City>Dallas</City>
-      <State>TX</State>
-      <Zip>75201</Zip>
+      <Number>3401</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
-
-  <Hotel HotelID="H010" Rating="4.6" NearestAirport="SEA">
-    <Name>Four Seasons</Name>
-    <Phone>206-999-8888</Phone>
-    <Address>
-      <Number>99</Number>
-      <Street>Pine St</Street>
-      <City>Seattle</City>
-      <State>WA</State>
-      <Zip>98101</Zip>
-    </Address>
-  </Hotel>
-
 </Hotels>
