@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel _HotelID="H003">
+  <Hotel HotelID="H003">
     <Name>Ocean View</Name>
     <City>Los Angeles</City>
     <Phone>310-987-6543</Phone>
