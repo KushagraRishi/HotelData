@@ -2,7 +2,6 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://kushagrarishi.github.io/HotelData/Hotels.xsd">
 
-
   <Hotel HotelID="H001" Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -30,7 +29,6 @@
     </Address>
   </Hotel>
 
-
   <Hotel HotelID="H003" Rating="3.5">
     <Name>Hilton Garden Inn</Name>
     <Phone>212-111-2222</Phone>
@@ -43,7 +41,6 @@
       <NearestAirport>JFK</NearestAirport>
     </Address>
   </Hotel>
-
 
   <Hotel HotelID="H004" Rating="4.1">
     <Name>Hyatt Regency</Name>
@@ -58,7 +55,6 @@
     </Address>
   </Hotel>
 
-
   <Hotel HotelID="H005" Rating="4.0">
     <Name>Marriott Downtown</Name>
     <Phone>415-444-5555</Phone>
@@ -71,7 +67,6 @@
       <NearestAirport>SFO</NearestAirport>
     </Address>
   </Hotel>
-
 
   <Hotel HotelID="H006" Rating="3.8">
     <Name>Courtyard Inn</Name>
@@ -86,7 +81,6 @@
     </Address>
   </Hotel>
 
-
   <Hotel HotelID="H007" Rating="4.5">
     <Name>Ritz Carlton</Name>
     <Phone>404-555-8888</Phone>
@@ -99,7 +93,6 @@
       <NearestAirport>ATL</NearestAirport>
     </Address>
   </Hotel>
-
 
   <Hotel HotelID="H008" Rating="4.1">
     <Name>Sheraton</Name>
@@ -114,7 +107,6 @@
     </Address>
   </Hotel>
 
-
   <Hotel HotelID="H009" Rating="3.9">
     <Name>Holiday Inn</Name>
     <Phone>972-123-4567</Phone>
@@ -128,7 +120,6 @@
     </Address>
   </Hotel>
 
-
   <Hotel HotelID="H010" Rating="4.6">
     <Name>Four Seasons</Name>
     <Phone>206-999-8888</Phone>
@@ -141,7 +132,6 @@
       <NearestAirport>SEA</NearestAirport>
     </Address>
   </Hotel>
-
 
   <Hotel HotelID="H011" Rating="4.3">
     <Name>Hyatt Place Tempe</Name>
