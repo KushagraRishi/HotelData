@@ -14,8 +14,7 @@
       <State>MH</State>
       <Zip>400001</Zip>
       <NearestAirport>BOM</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =2 -->
   <Hotel HotelID="H002" Rating="4.7">
@@ -28,8 +27,7 @@
       <State>DL</State>
       <Zip>110003</Zip>
       <NearestAirport>DEL</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =3 -->
   <Hotel HotelID="H003" Rating="4.6">
@@ -42,8 +40,7 @@
       <State>TN</State>
       <Zip>600032</Zip>
       <NearestAirport>MAA</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address>  </Hotel>
 
   <!-- hotel =4 -->
   <Hotel HotelID="H004" Rating="4.5">
@@ -56,8 +53,7 @@
       <State>KA</State>
       <Zip>560008</Zip>
       <NearestAirport>BLR</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =5 -->
   <Hotel HotelID="H005" Rating="4.7">
@@ -70,8 +66,7 @@
       <State>TS</State>
       <Zip>500053</Zip>
       <NearestAirport>HYD</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =6 -->
   <Hotel HotelID="H006" Rating="4.6">
@@ -84,8 +79,7 @@
       <State>WB</State>
       <Zip>700013</Zip>
       <NearestAirport>CCU</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =7 -->
   <Hotel HotelID="H007" Rating="4.8">
@@ -98,8 +92,7 @@
       <State>RJ</State>
       <Zip>313001</Zip>
       <NearestAirport>UDR</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =8 -->
   <Hotel HotelID="H008" Rating="4.5">
@@ -112,8 +105,7 @@
       <State>MH</State>
       <Zip>411053</Zip>
       <NearestAirport>PNQ</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =9 -->
   <Hotel HotelID="H009" Rating="4.4">
@@ -126,8 +118,7 @@
       <State>GJ</State>
       <Zip>380015</Zip>
       <NearestAirport>AMD</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =10 -->
   <Hotel HotelID="H010" Rating="4.6">
@@ -140,8 +131,7 @@
       <State>KL</State>
       <Zip>682504</Zip>
       <NearestAirport>COK</NearestAirport>
-    </Address>
-  </Hotel>
+    </Address> </Hotel>
 
   <!-- hotel =11 -->
   <Hotel HotelID="H011" Rating="4.3">
@@ -154,7 +144,5 @@
       <State>GA</State>
       <Zip>403515</Zip>
       <NearestAirport>GOI</NearestAirport>
-    </Address>
-  </Hotel>
-
+    </Address></Hotel>
 </Hotels>
