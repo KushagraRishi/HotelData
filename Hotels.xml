@@ -17,7 +17,7 @@
 </Hotel>
 
   <!-- hotel =2 -->
-  <Hotel Rating="4.7">
+  <Hotel>
     <Name>The Oberoi New Delhi</Name>
     <Phone>011-2436-3030</Phone>
     <Address NearestAirport="DEL">
