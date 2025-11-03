@@ -1,15 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel HotelID="H001" Rating="6" NearestAirport="PHX">
-    <Name>Grand Resort</Name>
-    <City>Phoenix</City>
-    <!-- Missing Address element -->
-    <Phone>6021234567</Phone>
-  </Hotel>
-
-  <Hotel HotelID="H002">
+  <Hotel _HotelID="H003">
     <Name>Ocean View</Name>
     <City>Los Angeles</City>
-    <Address>456 Sunset Blvd</Address>
-    <Phone>3109876543</Phone>
+    <Phone>310-987-6543</Phone>
   </Hotel>
 </Hotels>
