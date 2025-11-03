@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified">
 
-  <!-- Address structure -->
   <xs:complexType name="AddressType">
     <xs:sequence>
       <xs:element name="Number" type="xs:string"/>
@@ -13,7 +12,6 @@
     </xs:sequence>
   </xs:complexType>
 
-  <!-- Hotel structure -->
   <xs:complexType name="HotelType">
     <xs:sequence>
       <xs:element name="Name" type="xs:string"/>
@@ -24,7 +22,6 @@
     <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
   </xs:complexType>
 
-  <!-- Root -->
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
