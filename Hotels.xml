@@ -2,6 +2,7 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://kushagrarishi.github.io/HotelData/Hotels.xsd">
 
+
   <Hotel HotelID="H001" Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -29,6 +30,7 @@
     </Address>
   </Hotel>
 
+
   <Hotel HotelID="H003" Rating="3.5">
     <Name>Hilton Garden Inn</Name>
     <Phone>212-111-2222</Phone>
@@ -42,7 +44,8 @@
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H004">
+
+  <Hotel HotelID="H004" Rating="4.1">
     <Name>Hyatt Regency</Name>
     <Phone>312-222-3333</Phone>
     <Address>
@@ -54,6 +57,7 @@
       <NearestAirport>ORD</NearestAirport>
     </Address>
   </Hotel>
+
 
   <Hotel HotelID="H005" Rating="4.0">
     <Name>Marriott Downtown</Name>
@@ -68,6 +72,7 @@
     </Address>
   </Hotel>
 
+
   <Hotel HotelID="H006" Rating="3.8">
     <Name>Courtyard Inn</Name>
     <Phone>602-333-1111</Phone>
@@ -81,7 +86,8 @@
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H007">
+
+  <Hotel HotelID="H007" Rating="4.5">
     <Name>Ritz Carlton</Name>
     <Phone>404-555-8888</Phone>
     <Address>
@@ -93,6 +99,7 @@
       <NearestAirport>ATL</NearestAirport>
     </Address>
   </Hotel>
+
 
   <Hotel HotelID="H008" Rating="4.1">
     <Name>Sheraton</Name>
@@ -107,6 +114,7 @@
     </Address>
   </Hotel>
 
+
   <Hotel HotelID="H009" Rating="3.9">
     <Name>Holiday Inn</Name>
     <Phone>972-123-4567</Phone>
@@ -119,6 +127,7 @@
       <NearestAirport>DFW</NearestAirport>
     </Address>
   </Hotel>
+
 
   <Hotel HotelID="H010" Rating="4.6">
     <Name>Four Seasons</Name>
