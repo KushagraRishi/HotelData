@@ -2,147 +2,158 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://kushagrarishi.github.io/HotelData/Hotels.xsd">
 
-  <Hotel HotelID="H001" Rating="4.2">
-    <Name>Westin</Name>
-    <Phone>480-968-8885</Phone>
-    <Phone>800-937-8461</Phone>
+  <!-- hotel =1 -->
+  <Hotel HotelID="H001" Rating="4.8">
+    <Name>The Taj Mahal Palace</Name>
+    <Phone>022-6665-3366</Phone>
+    <Phone>1800-111-825</Phone>
     <Address>
-      <Number>11</Number>
-      <Street>E 7th St</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <Number>1</Number>
+      <Street>Apollo Bunder</Street>
+      <City>Mumbai</City>
+      <State>MH</State>
+      <Zip>400001</Zip>
+      <NearestAirport>BOM</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H002" Rating="4.0">
-    <Name>Ocean View</Name>
-    <Phone>310-987-6543</Phone>
+  <!-- hotel =2 -->
+  <Hotel HotelID="H002" Rating="4.7">
+    <Name>The Oberoi New Delhi</Name>
+    <Phone>011-2436-3030</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Dr Zakir Hussain Marg</Street>
+      <City>New Delhi</City>
+      <State>DL</State>
+      <Zip>110003</Zip>
+      <NearestAirport>DEL</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <!-- hotel =3 -->
+  <Hotel HotelID="H003" Rating="4.6">
+    <Name>ITC Grand Chola</Name>
+    <Phone>044-2220-0000</Phone>
+    <Address>
+      <Number>63</Number>
+      <Street>Mount Rd, Guindy</Street>
+      <City>Chennai</City>
+      <State>TN</State>
+      <Zip>600032</Zip>
+      <NearestAirport>MAA</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <!-- hotel =4 -->
+  <Hotel HotelID="H004" Rating="4.5">
+    <Name>The Leela Palace Bengaluru</Name>
+    <Phone>080-2521-1234</Phone>
     <Address>
       <Number>23</Number>
-      <Street>Sunset Blvd</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90028</Zip>
-      <NearestAirport>LAX</NearestAirport>
+      <Street>Old Airport Road</Street>
+      <City>Bengaluru</City>
+      <State>KA</State>
+      <Zip>560008</Zip>
+      <NearestAirport>BLR</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H003" Rating="3.5">
-    <Name>Hilton Garden Inn</Name>
-    <Phone>212-111-2222</Phone>
+  <!-- hotel =5 -->
+  <Hotel HotelID="H005" Rating="4.7">
+    <Name>Taj Falaknuma Palace</Name>
+    <Phone>040-6629-8585</Phone>
     <Address>
-      <Number>85</Number>
-      <Street>Madison Ave</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10016</Zip>
-      <NearestAirport>JFK</NearestAirport>
+      <Number>8-1-366</Number>
+      <Street>Engine Bowli</Street>
+      <City>Hyderabad</City>
+      <State>TS</State>
+      <Zip>500053</Zip>
+      <NearestAirport>HYD</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H004" Rating="4.1">
-    <Name>Hyatt Regency</Name>
-    <Phone>312-222-3333</Phone>
+  <!-- hotel =6 -->
+  <Hotel HotelID="H006" Rating="4.6">
+    <Name>The Oberoi Grand Kolkata</Name>
+    <Phone>033-2249-2323</Phone>
     <Address>
-      <Number>200</Number>
-      <Street>N Michigan Ave</Street>
-      <City>Chicago</City>
-      <State>IL</State>
-      <Zip>60601</Zip>
-      <NearestAirport>ORD</NearestAirport>
+      <Number>15</Number>
+      <Street>Jawaharlal Nehru Rd</Street>
+      <City>Kolkata</City>
+      <State>WB</State>
+      <Zip>700013</Zip>
+      <NearestAirport>CCU</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H005" Rating="4.0">
-    <Name>Marriott Downtown</Name>
-    <Phone>415-444-5555</Phone>
+  <!-- hotel =7 -->
+  <Hotel HotelID="H007" Rating="4.8">
+    <Name>The Leela Palace Udaipur</Name>
+    <Phone>0294-670-1234</Phone>
     <Address>
-      <Number>55</Number>
-      <Street>Market Street</Street>
-      <City>San Francisco</City>
-      <State>CA</State>
-      <Zip>94105</Zip>
-      <NearestAirport>SFO</NearestAirport>
+      <Number>1</Number>
+      <Street>Lake Pichola</Street>
+      <City>Udaipur</City>
+      <State>RJ</State>
+      <Zip>313001</Zip>
+      <NearestAirport>UDR</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H006" Rating="3.8">
-    <Name>Courtyard Inn</Name>
-    <Phone>602-333-1111</Phone>
+  <!-- hotel =8 -->
+  <Hotel HotelID="H008" Rating="4.5">
+    <Name>JW Marriott Pune</Name>
+    <Phone>020-6683-3333</Phone>
     <Address>
-      <Number>90</Number>
-      <Street>5th Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85004</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <Number>1</Number>
+      <Street>Senapati Bapat Rd</Street>
+      <City>Pune</City>
+      <State>MH</State>
+      <Zip>411053</Zip>
+      <NearestAirport>PNQ</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H007" Rating="4.5">
-    <Name>Ritz Carlton</Name>
-    <Phone>404-555-8888</Phone>
+  <!-- hotel =9 -->
+  <Hotel HotelID="H009" Rating="4.4">
+    <Name>Courtyard by Marriott Ahmedabad</Name>
+    <Phone>079-6618-5000</Phone>
     <Address>
-      <Number>700</Number>
-      <Street>Peachtree St</Street>
-      <City>Atlanta</City>
-      <State>GA</State>
-      <Zip>30308</Zip>
-      <NearestAirport>ATL</NearestAirport>
+      <Number>1</Number>
+      <Street>Ramdev Nagar Cross Rd</Street>
+      <City>Ahmedabad</City>
+      <State>GJ</State>
+      <Zip>380015</Zip>
+      <NearestAirport>AMD</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel HotelID="H008" Rating="4.1">
-    <Name>Sheraton</Name>
-    <Phone>213-777-6666</Phone>
-    <Address>
-      <Number>410</Number>
-      <Street>Figueroa St</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90017</Zip>
-      <NearestAirport>LAX</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel HotelID="H009" Rating="3.9">
-    <Name>Holiday Inn</Name>
-    <Phone>972-123-4567</Phone>
-    <Address>
-      <Number>500</Number>
-      <Street>Main St</Street>
-      <City>Dallas</City>
-      <State>TX</State>
-      <Zip>75201</Zip>
-      <NearestAirport>DFW</NearestAirport>
-    </Address>
-  </Hotel>
-
+  <!-- hotel =10 -->
   <Hotel HotelID="H010" Rating="4.6">
-    <Name>Four Seasons</Name>
-    <Phone>206-999-8888</Phone>
+    <Name>Grand Hyatt Kochi Bolgatty</Name>
+    <Phone>0484-266-1234</Phone>
     <Address>
-      <Number>99</Number>
-      <Street>Pine St</Street>
-      <City>Seattle</City>
-      <State>WA</State>
-      <Zip>98101</Zip>
-      <NearestAirport>SEA</NearestAirport>
+      <Number>1</Number>
+      <Street>Bolgatty Island</Street>
+      <City>Kochi</City>
+      <State>KL</State>
+      <Zip>682504</Zip>
+      <NearestAirport>COK</NearestAirport>
     </Address>
   </Hotel>
 
+  <!-- hotel =11 -->
   <Hotel HotelID="H011" Rating="4.3">
-    <Name>Hyatt Place Tempe</Name>
-    <Phone>480-555-1212</Phone>
+    <Name>Novotel Goa Candolim</Name>
+    <Phone>0832-665-0303</Phone>
     <Address>
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <Number>1</Number>
+      <Street>Anna Waddo, Candolim</Street>
+      <City>Goa</City>
+      <State>GA</State>
+      <Zip>403515</Zip>
+      <NearestAirport>GOI</NearestAirport>
     </Address>
   </Hotel>
 
