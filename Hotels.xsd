@@ -2,6 +2,10 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
   
   <!-- Address, five child elements; NearestAirport is a required ATTRIBUTE -->
+
+  <!--   So here I have divded it multiple parts. Here I have defines the complex structure for the 'Address' element
+    It includes standard address fields in sequence.
+    The 'NearestAirport' is declared as a required attribute -->
   
   <xs:complexType name="AddressType">
     
@@ -18,7 +22,11 @@
     <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
   </xs:complexType>
 
-  <!-- Hotel, here I have written order is Name, Phone+, Address, Rating is an optional ATTRIBUTE -->
+  <!--    Here I have describes the structure of each 'Hotel' element.
+    The expected order is,  Name, one or more Phone entries, followed by Address.
+    'Rating' is an optional attribute for each hotel. -->
+
+  
   <xs:complexType name="HotelType">
     <xs:sequence>
       
@@ -30,7 +38,7 @@
     <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
   </xs:complexType>
 
-  <!-- This is the root -->
+  <!-- This is the root Here each hotel  must follow the HotelType structure defined above.-->
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
