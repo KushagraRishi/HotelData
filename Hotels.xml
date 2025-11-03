@@ -3,18 +3,18 @@
         xsi:noNamespaceSchemaLocation="https://kushagrarishi.github.io/HotelData/Hotels.xsd">
 
   <!-- hotel =1 -->
-  <Hotel Rating="4.8">
-    <Name>The Taj Mahal Palace</Name>
-    <Phone>022-6665-3366</Phone>
-    <Phone>1800-111-825</Phone>
-    <Address NearestAirport="BOM">
-      <Number>1</Number>
-      <Street>Apollo Bunder</Street>
-      <City>Mumbai</City>
-      <State>MH</State>
-      <Zip>400001</Zip>
-    </Address>
-  </Hotel>
+  <Hotel Rating="4.2">
+  <Name>Westin</Name>
+  <Phone>480-968-8885</Phone>
+  <Phone>800-937-8461</Phone>
+  <Address NearestAirport="Sky Harbor">
+    <Number>11</Number>
+    <Street>E 7th St</Street>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Zip>85281</Zip>
+  </Address>
+</Hotel>
 
   <!-- hotel =2 -->
   <Hotel Rating="4.7">
