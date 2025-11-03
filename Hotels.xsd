@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
   
-  <!-- Address, five child elements; NearestAirport is a required ATTRIBUTE -->
+  <!-- Here address, five child elements; NearestAirport is a required ATTRIBUTE -->
 
   <!--   So here I have divded it multiple parts. Here I have defines the complex structure for the 'Address' element
     It includes standard address fields in sequence.
