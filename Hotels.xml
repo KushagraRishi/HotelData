@@ -19,7 +19,7 @@
   <!-- hotel =2 -->
   <Hotel>
     <Name>The Oberoi New Delhi</Name>
-    <Phone>011-2436-3030</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="DEL">
       <Number>12</Number>
       <Street>Dr Zakir Hussain Marg</Street>
@@ -32,7 +32,7 @@
   <!-- hotel =3 -->
   <Hotel Rating="4.6">
     <Name>ITC Grand Chola</Name>
-    <Phone>044-2220-0000</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="MAA">
       <Number>63</Number>
       <Street>Mount Rd, Guindy</Street>
@@ -45,8 +45,8 @@
   <!-- hotel =4 -->
   <Hotel Rating="4.5">
     <Name>The Leela Palace Bengaluru</Name>
-    <Phone>080-2521-1234</Phone>
-    <Phone>080-2521-5678</Phone>
+    <Phone>000-00-0000</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="BLR">
       <Number>23</Number>
       <Street>Old Airport Road</Street>
@@ -72,7 +72,7 @@
   <!-- hotel =6 -->
   <Hotel Rating="4.6">
     <Name>The Oberoi Grand Kolkata</Name>
-    <Phone>033-2249-2323</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="CCU">
       <Number>15</Number>
       <Street>Jawaharlal Nehru Rd</Street>
@@ -85,7 +85,7 @@
   <!-- hotel =7 -->
   <Hotel Rating="4.8">
     <Name>The Leela Palace Udaipur</Name>
-    <Phone>0294-670-1234</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="UDR">
       <Number>21</Number>
       <Street>Lake Pichola</Street>
@@ -98,7 +98,7 @@
   <!-- hotel =8 -->
   <Hotel Rating="4.5">
     <Name>JW Marriott Pune</Name>
-    <Phone>020-6683-3333</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="PNQ">
       <Number>9</Number>
       <Street>Senapati Bapat Rd</Street>
@@ -111,7 +111,7 @@
   <!-- hotel =9 -->
   <Hotel Rating="4.4">
     <Name>Courtyard by Marriott Ahmedabad</Name>
-    <Phone>079-6618-5000</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="AMD">
       <Number>306</Number>
       <Street>Ramdev Nagar Cross Rd</Street>
@@ -124,7 +124,7 @@
   <!-- hotel =10 -->
   <Hotel Rating="4.6">
     <Name>Grand Hyatt Kochi Bolgatty</Name>
-    <Phone>0484-266-1234</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="COK">
       <Number>287</Number>
       <Street>Bolgatty Island</Street>
@@ -137,7 +137,7 @@
   <!-- hotel =11 -->
   <Hotel Rating="4.3">
     <Name>Novotel Goa Candolim</Name>
-    <Phone>0832-665-0303</Phone>
+    <Phone>000-00-0000</Phone>
     <Address NearestAirport="GOI">
       <Number>56</Number>
       <Street>Anna Waddo, Candolim</Street>
