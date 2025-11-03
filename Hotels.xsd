@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <!-- Address: five child elements; NearestAirport is a required ATTRIBUTE -->
+  <!-- Address, five child elements; NearestAirport is a required ATTRIBUTE -->
+  
   <xs:complexType name="AddressType">
+    
     <xs:sequence>
+      
     <xs:element name="Number" type="xs:string" minOccurs="0"/>
       <xs:element name="Street" type="xs:string"/>
       <xs:element name="City" type="xs:string"/>
       <xs:element name="State" type="xs:string"/>
       <xs:element name="Zip" type="xs:string"/>
+      
     </xs:sequence>
+    
     <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
   </xs:complexType>
 
-  <!-- Hotel: order is Name, Phone+, Address; Rating is an optional ATTRIBUTE -->
+  <!-- Hotel, here I have written order is Name, Phone+, Address, Rating is an optional ATTRIBUTE -->
   <xs:complexType name="HotelType">
     <xs:sequence>
       <xs:element name="Name" type="xs:string"/>
@@ -22,7 +27,7 @@
     <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
   </xs:complexType>
 
-  <!-- Root -->
+  <!-- This is the root -->
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
